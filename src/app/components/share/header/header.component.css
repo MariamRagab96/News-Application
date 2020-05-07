@@ -1,0 +1,26 @@
+
+/* You can add global styles to this file, and also import other style files */
+
+ul{
+    background-color: #FFFFCC	;
+    height: 57px;
+    direction: rtl;
+}
+
+a:visited {
+    color: #990000;
+  }
+
+  a{
+    font-weight: bolder;
+    font-size: 160%;
+    color: #990000;
+  }
+  
+  /* mouse over link */
+  a:hover {
+background-color: #990000;
+color: #fff;
+  }
+ 
+  
